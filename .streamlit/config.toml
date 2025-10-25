@@ -1,0 +1,7 @@
+[theme]
+base = "dark"
+primaryColor = "#00BFFF"      # Optional: bright blue
+backgroundColor = "#0E1117"   # Optional: dark navy
+secondaryBackgroundColor = "#262730"
+textColor = "#FAFAFA"         # Optional: light text
+font = "sans serif"           # Optional: can be "monospace", "serif", etc.
