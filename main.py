@@ -32,10 +32,6 @@ SYSTEM_PROMPT_FALLBACK = (
 )
 
 
-# --- 2. Load API Keys ---
-
-load_dotenv()
-
 # Determine where to load the secrets from: st.secrets (Streamlit) or os.environ (.env)
 try:
     # 1. Try to load from Streamlit's secrets
