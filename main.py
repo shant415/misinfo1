@@ -3,8 +3,6 @@ import streamlit as st
 import json
 import re
 from openai import OpenAI
-from googleapiclient.discovery import build # Re-import
-from googleapiclient.errors import HttpError # Re-import
 
 # --- 1. Constants and API Configuration ---
 
